@@ -1,4 +1,4 @@
-from blizzard_bonanza.UI import UI
+from UI import UI
 
 def main():
     ui = UI()
